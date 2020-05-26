@@ -1,0 +1,3194 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Wang2020}{article}{}
+      \name{author}{10}{}{%
+        {{hash=eb3c765eef1c131b497c54ad20f592e4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yunhai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=676dc38f9d5c05da09549d1d5e56f703}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bongshin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=30ddc54bb140f6df92f695f6724f4dd4}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1338544cfa759a5623b564534879f9bd}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kaiyi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f309e2501e05de24a0bfcf7691ae6864}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=87a090b5ea4ce79fe9fa9d53422f7a56}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaotong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4fe7b51c8f82550e031f39a080ca3572}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Chi-Wing},
+           giveni={C\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=f99a8cce8cef7f4a4355ac7179f804f9}{%
+           family={Hurter},
+           familyi={H\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=675352a3dd6162348006cba3551962ee}{%
+           family={Deussen},
+           familyi={D\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{5bdd12c684b636e53c21fca30699f5e5}
+      \strng{fullhash}{504fd045e520ed383176da386e8b6d5e}
+      \strng{bibnamehash}{5bdd12c684b636e53c21fca30699f5e5}
+      \strng{authorbibnamehash}{5bdd12c684b636e53c21fca30699f5e5}
+      \strng{authornamehash}{5bdd12c684b636e53c21fca30699f5e5}
+      \strng{authorfullhash}{504fd045e520ed383176da386e8b6d5e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{1}
+      \field{title}{{ShapeWordle}: Tailoring Wordles using Shape-aware Archimedean Spirals}
+      \field{userf}{en}
+      \field{volume}{26}
+      \field{year}{2020}
+      \field{pages}{991\bibrangedash 1000}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/tvcg.2019.2934783
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2019.2934783
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2019.2934783
+      \endverb
+    \endentry
+    \entry{milgram1976}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=647e77469dede3f1d7ed99198d6e59e9}{%
+           family={Milgram},
+           familyi={M\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d9a277154994a441e9938b2d5d47595e}{%
+           family={Jodelet},
+           familyi={J\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \strng{fullhash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \strng{bibnamehash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \strng{authorbibnamehash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \strng{authornamehash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \strng{authorfullhash}{36e06e8eaee8ec83fd6e2b16a7739451}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Environmental Psychology}
+      \field{title}{Psychological maps of Paris}
+      \field{userf}{en}
+      \field{year}{1976}
+      \field{pages}{104\bibrangedash 124}
+      \range{pages}{21}
+    \endentry
+    \entry{Burch2016}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=a3e333c77e67d70b60778ac644b608f5}{%
+           family={Burch},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9dd17793bd5510a20c2bc0fe79637816}{%
+           family={Fluck},
+           familyi={F\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1e788e32f086630f49c4acc9f7b51393}{%
+           family={Freund},
+           familyi={F\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=178e2ad43740e3dedf941032d429021e}{%
+           family={Walzer},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0a74aecbd494916f5eb905b6cf08618d}{%
+           family={Kloos},
+           familyi={K\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=dd8a97552ba45525269624fc18d2b9a3}{%
+           family={Weiskopf},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{178c586b8d4488b0e52a07f39e0eee8a}
+      \strng{fullhash}{54c38c92232f3bf5140d63ac069747b1}
+      \strng{bibnamehash}{178c586b8d4488b0e52a07f39e0eee8a}
+      \strng{authorbibnamehash}{178c586b8d4488b0e52a07f39e0eee8a}
+      \strng{authornamehash}{178c586b8d4488b0e52a07f39e0eee8a}
+      \strng{authorfullhash}{54c38c92232f3bf5140d63ac069747b1}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 20th International Conference Information Visualisation ({IV})}
+      \field{title}{Lyrics Word Clouds}
+      \field{userf}{en}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1109/iv.2016.27
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/iv.2016.27
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/iv.2016.27
+      \endverb
+    \endentry
+    \entry{apollinaire1971selected}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d3e781fafd77d1ae0a263c7a558eed4f}{%
+           family={Apollinaire},
+           familyi={A\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New Directions Publishing}%
+      }
+      \strng{namehash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \strng{fullhash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \strng{bibnamehash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \strng{authorbibnamehash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \strng{authornamehash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \strng{authorfullhash}{d3e781fafd77d1ae0a263c7a558eed4f}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Selected Writings of Guillaume Apollinaire}
+      \field{userf}{en}
+      \field{volume}{310}
+      \field{year}{1971}
+    \endentry
+    \entry{Olivia2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b7446de83b2320d904225a0730e3389a}{%
+           family={Oliva},
+           familyi={O\bibinitperiod},
+           given={Aude},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a80dd1cae02059e95bfed2f2715fd0a}{%
+           family={Torralba},
+           familyi={T\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d90d3201a4170e6ac27822f5b384ebd4}{%
+           family={Schyns},
+           familyi={S\bibinitperiod},
+           given={Philippe\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{66b3ca841432734a99ca78271992d804}
+      \strng{fullhash}{66b3ca841432734a99ca78271992d804}
+      \strng{bibnamehash}{66b3ca841432734a99ca78271992d804}
+      \strng{authorbibnamehash}{66b3ca841432734a99ca78271992d804}
+      \strng{authornamehash}{66b3ca841432734a99ca78271992d804}
+      \strng{authorfullhash}{66b3ca841432734a99ca78271992d804}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0730-0301}
+      \field{journaltitle}{ACM Transactions of Graphics}
+      \field{number}{3}
+      \field{title}{Hybrid Images}
+      \field{userf}{en}
+      \field{volume}{25}
+      \field{year}{2006}
+      \field{pages}{527\bibrangedash 532}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/1141911.1141919
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1141911.1141919
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1141911.1141919
+      \endverb
+      \keyw{hybrid images,human perception,scale space}
+    \endentry
+    \entry{Yost2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=af7c0e04428081352090bd4b2f07c65d}{%
+           family={Yost},
+           familyi={Y\bibinitperiod},
+           given={Beth},
+           giveni={B\bibinitperiod}}}%
+        {{hash=47da2f88c8e514c35d6d6d73183fa909}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \strng{fullhash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \strng{bibnamehash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \strng{authorbibnamehash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \strng{authornamehash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \strng{authorfullhash}{f3a88d0a00f0c85c5be3fb7fa8ea220a}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{5}
+      \field{title}{The Perceptual Scalability of Visualization}
+      \field{userf}{en}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{837\bibrangedash 844}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/tvcg.2006.184
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2006.184
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2006.184
+      \endverb
+    \endentry
+    \entry{Lam2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e979ffc85299684e7aa0ed5357242d77}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Heidi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f49068235c8a94e721f5ac15b17aed2c}{%
+           family={Munzner},
+           familyi={M\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4969fabeef8d023f12a11beb5265a292}{%
+           family={Kincaid},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \strng{fullhash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \strng{bibnamehash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \strng{authorbibnamehash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \strng{authornamehash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \strng{authorfullhash}{3da3f57853cedda13767d4dd96aa4ac5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{Overview use in multiple visual information resolution interfaces}
+      \field{userf}{en}
+      \field{volume}{13}
+      \field{year}{2007}
+      \field{pages}{1278\bibrangedash 1285}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/TVCG.2007.70583
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2007.70583
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2007.70583
+      \endverb
+    \endentry
+    \entry{Andrews2010}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=29abe4e79b5346c8cada93ac06f0d4bf}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a8bb1f5c62f1c6c334068bd1b0e9e5a2}{%
+           family={Endert},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=47da2f88c8e514c35d6d6d73183fa909}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta, Georgia, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \strng{fullhash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \strng{bibnamehash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \strng{authorbibnamehash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \strng{authornamehash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \strng{authorfullhash}{9d7d6380a1a522656983aa3efd6c97bd}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
+      \field{isbn}{9781605589299}
+      \field{series}{CHI ’10}
+      \field{title}{Space to Think: Large High-Resolution Displays for Sensemaking}
+      \field{userf}{en}
+      \field{year}{2010}
+      \field{pages}{55\bibrangedash 64}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1753326.1753336
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1753326.1753336
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1753326.1753336
+      \endverb
+      \keyw{high-resolution displays,large}
+    \endentry
+    \entry{Badam2016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c6e260f0248fdf4c0367173e96cab1bd}{%
+           family={Badam},
+           familyi={B\bibinitperiod},
+           given={Sriram\bibnamedelima Karthik},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f8258733984bdc2bd1cd2fcd004e6d49}{%
+           family={Amini},
+           familyi={A\bibinitperiod},
+           given={Fereshteh},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3d2d2f27939146b06a5f340008404e78}{%
+           family={Elmqvist},
+           familyi={E\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b971847f0bbef7e53040c3b3ea1bba38}{%
+           family={Irani},
+           familyi={I\bibinitperiod},
+           given={Pourang},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{5ef9e5cafeac897071ad7d634391d6b9}
+      \strng{fullhash}{4128519a3cf54e3bb4eb88d5e0180a53}
+      \strng{bibnamehash}{5ef9e5cafeac897071ad7d634391d6b9}
+      \strng{authorbibnamehash}{5ef9e5cafeac897071ad7d634391d6b9}
+      \strng{authornamehash}{5ef9e5cafeac897071ad7d634391d6b9}
+      \strng{authorfullhash}{4128519a3cf54e3bb4eb88d5e0180a53}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 {IEEE} Conference on Visual Analytics Science and Technology, {VAST} 2016, Baltimore, MD, USA, October 23-28, 2016}
+      \field{title}{Supporting visual exploration for multiple users in large display environments}
+      \field{userf}{en}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/VAST.2016.7883506
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/VAST.2016.7883506
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/VAST.2016.7883506
+      \endverb
+    \endentry
+    \entry{Ball2005}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=08b4360628d8c1e7e0d5da818a020e29}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=47da2f88c8e514c35d6d6d73183fa909}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{871a63b7c67974abe6f949fe0149552f}
+      \strng{fullhash}{871a63b7c67974abe6f949fe0149552f}
+      \strng{bibnamehash}{871a63b7c67974abe6f949fe0149552f}
+      \strng{authorbibnamehash}{871a63b7c67974abe6f949fe0149552f}
+      \strng{authornamehash}{871a63b7c67974abe6f949fe0149552f}
+      \strng{authorfullhash}{871a63b7c67974abe6f949fe0149552f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{CHI} {'}05 extended abstracts on Human factors in computing systems - {CHI} {'}05}
+      \field{title}{Effects of tiled high-resolution display on basic visualization and navigation tasks}
+      \field{userf}{en}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1145/1056808.1056875
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1056808.1056875
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1056808.1056875
+      \endverb
+    \endentry
+    \entry{Bull2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e7401643326a5f77e9e39fe3eee65f4f}{%
+           family={Bull},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \strng{fullhash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \strng{bibnamehash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \strng{authorbibnamehash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \strng{authornamehash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \strng{authorfullhash}{e7401643326a5f77e9e39fe3eee65f4f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Communicating Pictures}
+      \field{isbn}{978-0-12-405906-1}
+      \field{title}{The Human Visual System}
+      \field{userf}{en}
+      \field{year}{2014}
+      \field{pages}{17\bibrangedash 61}
+      \range{pages}{45}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-405906-1.00002-7
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780124059061000027
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780124059061000027
+      \endverb
+      \keyw{The human eye,Human visual system (HVS),Visual cortex,Visual acuity,Color processing,Spatial processing,Contrast sensitivity,Visual perception,Eye movements,Visual masking}
+    \endentry
+    \entry{Isenberg2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=622ab17490d061bc98d87886a70cea1d}{%
+           family={Isenberg},
+           familyi={I\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9ec121f13a9adcea497e0e74922ef349}{%
+           family={Dragicevic},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8b6f6f0f6921ea301bc7656da499e2e2}{%
+           family={Willett},
+           familyi={W\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b1f5938c53e4d1785f032ed7552f72ea}{%
+           family={Bezerianos},
+           familyi={B\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d09af1fda718939e9a418404d4d6abcf}{%
+           family={Fekete},
+           familyi={F\bibinitperiod},
+           given={Jean-Daniel},
+           giveni={J\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{e5b3dcb473e7b3d7d0647b51ceb5bdad}
+      \strng{fullhash}{f10b1a2fed8bb934c4c85eab83178b4b}
+      \strng{bibnamehash}{e5b3dcb473e7b3d7d0647b51ceb5bdad}
+      \strng{authorbibnamehash}{e5b3dcb473e7b3d7d0647b51ceb5bdad}
+      \strng{authornamehash}{e5b3dcb473e7b3d7d0647b51ceb5bdad}
+      \strng{authorfullhash}{f10b1a2fed8bb934c4c85eab83178b4b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Hybrid-image visualization for large viewing environments}
+      \field{userf}{en}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{2346\bibrangedash 2355}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TVCG.2013.163
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2013.163
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2013.163
+      \endverb
+    \endentry
+    \entry{Swaminathan1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7ac4ba13a793fca695b3af6ac7140ad5}{%
+           family={Swaminathan},
+           familyi={S\bibinitperiod},
+           given={Kishore},
+           giveni={K\bibinitperiod}}}%
+        {{hash=85183e8abe895aaeb49c6ca93b3a35d1}{%
+           family={Sato},
+           familyi={S\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{210f08261a44b90897eed96d008056a1}
+      \strng{fullhash}{210f08261a44b90897eed96d008056a1}
+      \strng{bibnamehash}{210f08261a44b90897eed96d008056a1}
+      \strng{authorbibnamehash}{210f08261a44b90897eed96d008056a1}
+      \strng{authornamehash}{210f08261a44b90897eed96d008056a1}
+      \strng{authorfullhash}{210f08261a44b90897eed96d008056a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1072-5520}
+      \field{journaltitle}{Interactions}
+      \field{number}{1}
+      \field{title}{Interaction Design for Large Displays}
+      \field{userf}{en}
+      \field{volume}{4}
+      \field{year}{1997}
+      \field{pages}{15\bibrangedash 24}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/242388.242395
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/242388.242395
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/242388.242395
+      \endverb
+    \endentry
+    \entry{Isenberg2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1f5938c53e4d1785f032ed7552f72ea}{%
+           family={Bezerianos},
+           familyi={B\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=622ab17490d061bc98d87886a70cea1d}{%
+           family={Isenberg},
+           familyi={I\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \strng{fullhash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \strng{bibnamehash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \strng{authorbibnamehash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \strng{authornamehash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \strng{authorfullhash}{216ca4c0466cfab96967ef2ad7935d4c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Trans. Vis. Comput. Graph.}
+      \field{number}{12}
+      \field{title}{Perception of Visual Variables on Tiled Wall-Sized Displays for Information Visualization Applications}
+      \field{userf}{en}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{2516\bibrangedash 2525}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TVCG.2012.251
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2012.251
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2012.251
+      \endverb
+    \endentry
+    \entry{Joubert2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=74e025cc72486d7f20947ae04421bc95}{%
+           family={Joubert},
+           familyi={J\bibinitperiod},
+           given={Olivier\bibnamedelima R.},
+           giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a0d5d4d8d4aa050138678310a1e84ce4}{%
+           family={Rousselet},
+           familyi={R\bibinitperiod},
+           given={Guillaume\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f490251c1eea004e214b4fe03679ae65}{%
+           family={Fize},
+           familyi={F\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ebc8809c9b36e0064aca647a222a6773}{%
+           family={Fabre-Thorpe},
+           familyi={F\bibinithyphendelim T\bibinitperiod},
+           given={Mich{è}le},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{b20af2d76d433edaaafc47d91594ba28}
+      \strng{fullhash}{ac4231fb7b4e070cf457ec4f0227884d}
+      \strng{bibnamehash}{b20af2d76d433edaaafc47d91594ba28}
+      \strng{authorbibnamehash}{b20af2d76d433edaaafc47d91594ba28}
+      \strng{authornamehash}{b20af2d76d433edaaafc47d91594ba28}
+      \strng{authorfullhash}{ac4231fb7b4e070cf457ec4f0227884d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vision Research}
+      \field{number}{26}
+      \field{title}{Processing scene context: Fast categorization and object interference}
+      \field{userf}{en}
+      \field{volume}{47}
+      \field{year}{2007}
+      \field{pages}{3286\bibrangedash 3297}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.visres.2007.09.013
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.visres.2007.09.013s
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.visres.2007.09.013s
+      \endverb
+    \endentry
+    \entry{Oliva1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b7446de83b2320d904225a0730e3389a}{%
+           family={Oliva},
+           familyi={O\bibinitperiod},
+           given={Aude},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d90d3201a4170e6ac27822f5b384ebd4}{%
+           family={Schyns},
+           familyi={S\bibinitperiod},
+           given={Philippe\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \strng{fullhash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \strng{bibnamehash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \strng{authorbibnamehash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \strng{authornamehash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \strng{authorfullhash}{e58574f1dcf5e0af91b8d45706f0fde4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{number}{1}
+      \field{title}{Coarse Blobs or Fine Edges? Evidence That Information Diagnosticity Changes the Perception of Complex Visual Stimuli}
+      \field{userf}{en}
+      \field{volume}{34}
+      \field{year}{1997}
+      \field{pages}{72\bibrangedash 107}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1006/cogp.1997.0667
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1006/cogp.1997.0667
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1006/cogp.1997.0667
+      \endverb
+    \endentry
+    \entry{Shneiderman96}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=39afccc0f55ae7821df79ffd677c90b0}{%
+           family={Shneiderman},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{fullhash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{bibnamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authorbibnamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authornamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authorfullhash}{39afccc0f55ae7821df79ffd677c90b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1996 {IEEE} Symposium on Visual Languages, Boulder, Colorado, USA, September 3-6, 1996}
+      \field{title}{The Eyes Have It: {A} Task by Data Type Taxonomy for Information Visualizations}
+      \field{userf}{en}
+      \field{year}{1996}
+      \field{pages}{336\bibrangedash 343}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/VL.1996.545307
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/VL.1996.545307
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/VL.1996.545307
+      \endverb
+    \endentry
+    \entry{Baudisch2004}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=48be19c051e31b4fd371ba7ca83cdd59}{%
+           family={Baudisch},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=45ce5781688007549e1d1ea0b737f80d}{%
+           family={Gutwin},
+           familyi={G\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{7b1d470732cd499a631b9b279fc0cafa}
+      \strng{fullhash}{7b1d470732cd499a631b9b279fc0cafa}
+      \strng{bibnamehash}{7b1d470732cd499a631b9b279fc0cafa}
+      \strng{authorbibnamehash}{7b1d470732cd499a631b9b279fc0cafa}
+      \strng{authornamehash}{7b1d470732cd499a631b9b279fc0cafa}
+      \strng{authorfullhash}{7b1d470732cd499a631b9b279fc0cafa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1581137028}
+      \field{series}{CHI ’04}
+      \field{title}{Multiblending: Displaying Overlapping Windows Simultaneously without the Drawbacks of Alpha Blending}
+      \field{userf}{en}
+      \field{year}{2004}
+      \field{pages}{367\bibrangedash 374}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/985692.985739
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/985692.985739
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/985692.985739
+      \endverb
+      \keyw{semitransparency,windows,alpha blending}
+    \endentry
+    \entry{Majaj2002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2a78f32c83a0bf3fe1ce19ca7c445fef}{%
+           family={Majaj},
+           familyi={M\bibinitperiod},
+           given={Najib\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=339df18cec1267327abb2a8bac4e8cff}{%
+           family={Pelli},
+           familyi={P\bibinitperiod},
+           given={Denis\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b4ed9375369213e79fd4a03b66a31fc1}{%
+           family={Kurshan},
+           familyi={K\bibinitperiod},
+           given={Peri},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ec8df184c89ffb1ef018b7e7cc7f2f9c}{%
+           family={Palomares},
+           familyi={P\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{d06cb341325df9cfdae736f7516fafbe}
+      \strng{fullhash}{d49383e1958a28ff247420b8ae60c7b9}
+      \strng{bibnamehash}{d06cb341325df9cfdae736f7516fafbe}
+      \strng{authorbibnamehash}{d06cb341325df9cfdae736f7516fafbe}
+      \strng{authornamehash}{d06cb341325df9cfdae736f7516fafbe}
+      \strng{authorfullhash}{d49383e1958a28ff247420b8ae60c7b9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vision Research}
+      \field{number}{9}
+      \field{title}{The role of spatial frequency channels in letter identification}
+      \field{userf}{en}
+      \field{volume}{42}
+      \field{year}{2002}
+      \field{pages}{1165\bibrangedash 1184}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/s0042-6989(02)00045-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/S0042-6989(02)00045-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/S0042-6989(02)00045-7
+      \endverb
+    \endentry
+    \entry{Miguel2012}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=40145f7688ea55f09a937ae6b496173c}{%
+           family={Nacenta},
+           familyi={N\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a7228f077e4665e2111c736b7f3796a}{%
+           family={Hinrichs},
+           familyi={H\bibinitperiod},
+           given={Uta},
+           giveni={U\bibinitperiod}}}%
+        {{hash=7392c87f336887365212b906f7e36640}{%
+           family={Carpendale},
+           familyi={C\bibinitperiod},
+           given={Sheelagh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{67b6f0d638423c1f089f663e3085411d}
+      \strng{fullhash}{67b6f0d638423c1f089f663e3085411d}
+      \strng{bibnamehash}{67b6f0d638423c1f089f663e3085411d}
+      \strng{authorbibnamehash}{67b6f0d638423c1f089f663e3085411d}
+      \strng{authornamehash}{67b6f0d638423c1f089f663e3085411d}
+      \strng{authorfullhash}{67b6f0d638423c1f089f663e3085411d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the International Working Conference on Advanced Visual Interfaces}
+      \field{isbn}{9781450312875}
+      \field{series}{AVI ’12}
+      \field{title}{FatFonts: Combining the Symbolic and Visual Aspects of Numbers}
+      \field{userf}{en}
+      \field{year}{2012}
+      \field{pages}{407\bibrangedash 414}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/2254556.2254636
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2254556.2254636
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2254556.2254636
+      \endverb
+      \keyw{typography,numerals,information visualization}
+    \endentry
+    \entry{Ostromoukhov1995}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=69505fa3735f8bfde1fffe26993a79e0}{%
+           family={Ostromoukhov},
+           familyi={O\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2f742541b7e5260ebf1e7a2eda880c02}{%
+           family={Hersch},
+           familyi={H\bibinitperiod},
+           given={Roger\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \strng{fullhash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \strng{bibnamehash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \strng{authorbibnamehash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \strng{authornamehash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \strng{authorfullhash}{9b8bd92dfb7eb64632c0d1143f829b6a}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd Annual Conference on Computer Graphics and Interactive Techniques}
+      \field{isbn}{0897917014}
+      \field{series}{SIGGRAPH ’95}
+      \field{title}{Artistic Screening}
+      \field{userf}{en}
+      \field{year}{1995}
+      \field{pages}{219\bibrangedash 228}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/218380.218445
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/218380.218445
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/218380.218445
+      \endverb
+      \keyw{image reproduction,microlettering,artistic screening,graphic design,halftoning}
+    \endentry
+    \entry{Gortler2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=dee596ea9e9154a42878471ade8e9696}{%
+           family={G{ö}rtler},
+           familyi={G\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a506fbd1460b6007cf7852bdf1f2a98}{%
+           family={Spicker},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=735ae9a28e0c4c58b253cbab18d5a051}{%
+           family={Schulz},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=dd8a97552ba45525269624fc18d2b9a3}{%
+           family={Weiskopf},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=675352a3dd6162348006cba3551962ee}{%
+           family={Deussen},
+           familyi={D\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{baf1a3ed7ef17797d0dc570d35709704}
+      \strng{fullhash}{4e41a317a82bf38bf422a48030ee4f1b}
+      \strng{bibnamehash}{baf1a3ed7ef17797d0dc570d35709704}
+      \strng{authorbibnamehash}{baf1a3ed7ef17797d0dc570d35709704}
+      \strng{authornamehash}{baf1a3ed7ef17797d0dc570d35709704}
+      \strng{authorfullhash}{4e41a317a82bf38bf422a48030ee4f1b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions of Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{Stippling of 2D Scalar Fields}
+      \field{userf}{en}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{2193\bibrangedash 2204}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TVCG.2019.2903945
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2019.2903945
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2019.2903945
+      \endverb
+    \endentry
+    \entry{Munzner2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f49068235c8a94e721f5ac15b17aed2c}{%
+           family={Munzner},
+           familyi={M\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL, USA}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f49068235c8a94e721f5ac15b17aed2c}
+      \strng{fullhash}{f49068235c8a94e721f5ac15b17aed2c}
+      \strng{bibnamehash}{f49068235c8a94e721f5ac15b17aed2c}
+      \strng{authorbibnamehash}{f49068235c8a94e721f5ac15b17aed2c}
+      \strng{authornamehash}{f49068235c8a94e721f5ac15b17aed2c}
+      \strng{authorfullhash}{f49068235c8a94e721f5ac15b17aed2c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{AK Peters visualization series}
+      \field{title}{{Visualization analysis and design}}
+      \field{userf}{en}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://www.cs.ubc.ca/\%7Etmm/vadbook/
+      \endverb
+      \verb{url}
+      \verb http://www.cs.ubc.ca/%5C%7Etmm/vadbook/
+      \endverb
+    \endentry
+    \entry{ThomasStrothotte2002}{book}{}
+      \name{author}{2}{}{%
+        {{hash=09fb68ef76b6d57545878ff675c0ad3d}{%
+           family={Strothotte},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8e858cf6514c67cc98b1b1d05981a7c0}{%
+           family={Schlechtweg},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MORGAN KAUFMANN PUBL INC}%
+      }
+      \strng{namehash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \strng{fullhash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \strng{bibnamehash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \strng{authorbibnamehash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \strng{authornamehash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \strng{authorfullhash}{ebbd3489f826830f16c7cf61869f2dc8}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{isbn}{1558607870}
+      \field{month}{4}
+      \field{pagetotal}{496}
+      \field{title}{Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation}
+      \field{userf}{en}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Battiato2007}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=469c71a64d7081188bc6317cde4248c8}{%
+           family={Battiato},
+           familyi={B\bibinitperiod},
+           given={Sebastiano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0b30742531e059c4a27a0063418bba1a}{%
+           family={Di\bibnamedelima Blasi},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Gianpiero},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9bcce3c0de47be137885d10ed760eaae}{%
+           family={Farinella},
+           familyi={F\bibinitperiod},
+           given={Giovanni\bibnamedelima Maria},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=017d7c2e3ba8ccd0915401ca288578d3}{%
+           family={Gallo},
+           familyi={G\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{4e2e4808fc624aa57ee2b3c6c10c3302}
+      \strng{fullhash}{655c0e55f982b322954f5c72985adf68}
+      \strng{bibnamehash}{4e2e4808fc624aa57ee2b3c6c10c3302}
+      \strng{authorbibnamehash}{4e2e4808fc624aa57ee2b3c6c10c3302}
+      \strng{authornamehash}{4e2e4808fc624aa57ee2b3c6c10c3302}
+      \strng{authorfullhash}{655c0e55f982b322954f5c72985adf68}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Graphics Forum}
+      \field{number}{4}
+      \field{title}{Digital Mosaic Frameworks - An Overview}
+      \field{userf}{en}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{794\bibrangedash 812}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/j.1467-8659.2007.01021.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1467-8659.2007.01021.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1467-8659.2007.01021.x
+      \endverb
+    \endentry
+    \entry{Kim2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bda28ae8e4d15383e47a458698911b96}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Junhwan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6fa596a2dcc1f18d263fcacb9557867d}{%
+           family={Pellacini},
+           familyi={P\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery ({ACM})}%
+      }
+      \strng{namehash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \strng{fullhash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \strng{bibnamehash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \strng{authorbibnamehash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \strng{authornamehash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \strng{authorfullhash}{284b56c95bc6d5cda81f59dd69cbacb2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACM} Transactions on Graphics}
+      \field{number}{3}
+      \field{title}{Jigsaw image mosaics}
+      \field{userf}{en}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{pages}{657\bibrangedash 664}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/566654.566633
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/566654.566633
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/566654.566633
+      \endverb
+    \endentry
+    \entry{dalal2006}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e87c182528fb8b6e492891b2cb8ec7fa}{%
+           family={Dalal},
+           familyi={D\bibinitperiod},
+           given={Ketan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c1bfedf6fd5e94e1d7df0b05e74c29a0}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Allison\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=ae0b12a38cf5e731e1d288469314296d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=56ffb7e378f4f66e346f4b71175389e8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kaleigh},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Annecy, France}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{0fd4eaac4197e924dbcd504a608821d5}
+      \strng{fullhash}{b3d5620cdc12533b9aeca5f036fdb4cf}
+      \strng{bibnamehash}{0fd4eaac4197e924dbcd504a608821d5}
+      \strng{authorbibnamehash}{0fd4eaac4197e924dbcd504a608821d5}
+      \strng{authornamehash}{0fd4eaac4197e924dbcd504a608821d5}
+      \strng{authorfullhash}{b3d5620cdc12533b9aeca5f036fdb4cf}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th International Symposium on Non-Photorealistic Animation and Rendering}
+      \field{isbn}{1595933573}
+      \field{series}{NPAR ’06}
+      \field{title}{A Spectral Approach to NPR Packing}
+      \field{userf}{en}
+      \field{year}{2006}
+      \field{pages}{71\bibrangedash 78}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1124728.1124741
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1124728.1124741
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1124728.1124741
+      \endverb
+      \keyw{Fourier analysis,packing,area voronoi diagram,mosaics,centroidal voronoi diagram,animation}
+    \endentry
+    \entry{Gallo2006}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=89fd325895071a6c3725fd270ef7c14f}{%
+           family={Blasi},
+           familyi={B\bibinitperiod},
+           given={Gianpiero},
+           giveni={G\bibinitperiod},
+           prefix={di},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=017d7c2e3ba8ccd0915401ca288578d3}{%
+           family={Gallo},
+           familyi={G\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4179d0a241dc63f7e46ba7ac44a4231a}{%
+           family={Petralia},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Eurographics Association}%
+      }
+      \strng{namehash}{c39f62006ee8fd65cefbaeef38450d12}
+      \strng{fullhash}{c39f62006ee8fd65cefbaeef38450d12}
+      \strng{bibnamehash}{c39f62006ee8fd65cefbaeef38450d12}
+      \strng{authorbibnamehash}{c39f62006ee8fd65cefbaeef38450d12}
+      \strng{authornamehash}{c39f62006ee8fd65cefbaeef38450d12}
+      \strng{authorfullhash}{c39f62006ee8fd65cefbaeef38450d12}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{4th Eurographics Italian Chapter Conference}
+      \field{isbn}{3-905673-58-4}
+      \field{title}{{Smart Ideas for Photomosaic Rendering}}
+      \field{userf}{en}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.2312/LocalChapterEvents/ItalianChapConf2006/267-271
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2312/LocalChapterEvents/ItalianChapConf2006/267-271
+      \endverb
+    \endentry
+    \entry{Zou2016}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a7bc16167fd62ca3ca617a1e7f18617f}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Changqing},
+           giveni={C\bibinitperiod}}}%
+        {{hash=79436ebf45bb4efb9288a101b38f94af}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5e730e91f3a7db5ea40a93b85237aba}{%
+           family={Ranaweera},
+           familyi={R\bibinitperiod},
+           given={Warunika},
+           giveni={W\bibinitperiod}}}%
+        {{hash=875375f6289a74d302ec4afcd3ecce4e}{%
+           family={Alhashim},
+           familyi={A\bibinitperiod},
+           given={Ibraheem},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2b6a47983313aca5e9c798cbdd6b4df6}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e2c9527bb98341f47f2c65d36f546d7b}{%
+           family={Sheffer},
+           familyi={S\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery {ACM})}%
+      }
+      \strng{namehash}{dfb22870906cce5ec93d2bd605d1f6ad}
+      \strng{fullhash}{755e03eb4eed03919c4ba3075209dc42}
+      \strng{bibnamehash}{dfb22870906cce5ec93d2bd605d1f6ad}
+      \strng{authorbibnamehash}{dfb22870906cce5ec93d2bd605d1f6ad}
+      \strng{authornamehash}{dfb22870906cce5ec93d2bd605d1f6ad}
+      \strng{authorfullhash}{755e03eb4eed03919c4ba3075209dc42}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACM} Transactions on Graphics}
+      \field{number}{4}
+      \field{title}{Legible compact calligrams}
+      \field{userf}{en}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2897824.2925887
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2897824.2925887
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2897824.2925887
+      \endverb
+    \endentry
+    \entry{Xu2007}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ffd0b0c3743e938ccac63525d574f0a0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=068885abbcb84edaaee87229397e27e1}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Craig\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{749b60b947536b9ce12705c9fb663eed}
+      \strng{fullhash}{749b60b947536b9ce12705c9fb663eed}
+      \strng{bibnamehash}{749b60b947536b9ce12705c9fb663eed}
+      \strng{authorbibnamehash}{749b60b947536b9ce12705c9fb663eed}
+      \strng{authornamehash}{749b60b947536b9ce12705c9fb663eed}
+      \strng{authorfullhash}{749b60b947536b9ce12705c9fb663eed}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of Graphics Interface 2007}
+      \field{isbn}{9781568813370}
+      \field{series}{GI ’07}
+      \field{title}{Calligraphic Packing}
+      \field{userf}{en}
+      \field{year}{2007}
+      \field{pages}{43\bibrangedash 50}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1268517.1268527
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1268517.1268527
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1268517.1268527
+      \endverb
+      \keyw{non-photorealistic rendering,mosaics,calligraphy,tilings,packing}
+    \endentry
+    \entry{Chi2018}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=6ac7958a5dc98ab3d96760f970e7ef3c}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Ming-Te},
+           giveni={M\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=2fa06be928203aa0cc8d5b6ad3b14f15}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Hao-Hsuan},
+           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=e73a196a7a91dd40fd11a140d255bb30}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Chih-Kuo},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=733c73682cf0b62576b8e6903c39558f}{%
+           family={Morace},
+           familyi={M\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ffafbf7bdd631c0a0f5bc1677b75dad8}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Hui-Nieg},
+           giveni={H\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=090575cda40d72bca79e7b3b1cddd6aa}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Shih-Syun},
+           giveni={S\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=3f5c106a48fd80b40a3678a25b7088d6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Tong-Yee},
+           giveni={T\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{c17ca911bd3b4456bad9ca8f97e2466a}
+      \strng{fullhash}{0670f0c2cc6f8b2ab8341064bdcf741c}
+      \strng{bibnamehash}{c17ca911bd3b4456bad9ca8f97e2466a}
+      \strng{authorbibnamehash}{c17ca911bd3b4456bad9ca8f97e2466a}
+      \strng{authornamehash}{c17ca911bd3b4456bad9ca8f97e2466a}
+      \strng{authorfullhash}{0670f0c2cc6f8b2ab8341064bdcf741c}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{SIGGRAPH} Asia 2018 Posters on - {SA} {'}18}
+      \field{title}{Alphabet collage art generation}
+      \field{userf}{en}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1145/3283289.3283311
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3283289.3283311
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3283289.3283311
+      \endverb
+    \endentry
+    \entry{Xu2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=56a50c1718b124fd04dc28c8d8c40b85}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xuemiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a345e7a761d267d793c07705c0442e7f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Linling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a3d67fc430ef1f9f307d68da7bc53a28}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Tien-Tsin},
+           giveni={T\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{ebb30bfae182018633152b1d36872577}
+      \strng{fullhash}{ebb30bfae182018633152b1d36872577}
+      \strng{bibnamehash}{ebb30bfae182018633152b1d36872577}
+      \strng{authorbibnamehash}{ebb30bfae182018633152b1d36872577}
+      \strng{authornamehash}{ebb30bfae182018633152b1d36872577}
+      \strng{authorfullhash}{ebb30bfae182018633152b1d36872577}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0730-0301}
+      \field{journaltitle}{ACM Transactions on Graphics}
+      \field{number}{4}
+      \field{title}{Structure-Based ASCII Art}
+      \field{userf}{en}
+      \field{volume}{29}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1145/1778765.1778789
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1778765.1778789
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1778765.1778789
+      \endverb
+      \keyw{ASCII art,shape similarity}
+    \endentry
+    \entry{Moharik2011}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=699b6c15a9cf4d6708682acf2f00623c}{%
+           family={Maharik},
+           familyi={M\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=31852c10afdbd58245b39a41724abbb4}{%
+           family={Bessmeltsev},
+           familyi={B\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2c9527bb98341f47f2c65d36f546d7b}{%
+           family={Sheffer},
+           familyi={S\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2462bcffc1fe2b2516806856ac49610b}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ddc191457fbfb296fcfc5cf6afac6ac9}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{0bb6918c95eda9659144ed493601f91c}
+      \strng{fullhash}{1d0d164b451d5415f51f5914e06772d6}
+      \strng{bibnamehash}{0bb6918c95eda9659144ed493601f91c}
+      \strng{authorbibnamehash}{0bb6918c95eda9659144ed493601f91c}
+      \strng{authornamehash}{0bb6918c95eda9659144ed493601f91c}
+      \strng{authorfullhash}{1d0d164b451d5415f51f5914e06772d6}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM SIGGRAPH 2011 Papers}
+      \field{isbn}{9781450309431}
+      \field{series}{SIGGRAPH ’11}
+      \field{title}{Digital Micrography}
+      \field{userf}{en}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1145/1964921.1964995
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1964921.1964995
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1964921.1964995
+      \endverb
+      \keyw{micrography,calligraphy,digital typography}
+    \endentry
+    \entry{Kyprianidis13}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e6d2795157d70a62d3b8027e09e07092}{%
+           family={Kyprianidis},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima Eric},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=50caa1aa23f8981bf61ba41619dfacda}{%
+           family={Collomosse},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c7f88892829689b7eb6e294a72941c90}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tinghuai},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1f980758856350b3e536e3581ce77885}{%
+           family={Isenberg},
+           familyi={I\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{15aa52f6f928e62c06fc361dccd9cb95}
+      \strng{fullhash}{43b4a8c8019f7c8765199ad8074b5b9f}
+      \strng{bibnamehash}{15aa52f6f928e62c06fc361dccd9cb95}
+      \strng{authorbibnamehash}{15aa52f6f928e62c06fc361dccd9cb95}
+      \strng{authornamehash}{15aa52f6f928e62c06fc361dccd9cb95}
+      \strng{authorfullhash}{43b4a8c8019f7c8765199ad8074b5b9f}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{5}
+      \field{title}{State of the "Art": {A} Taxonomy of Artistic Stylization Techniques for Images and Video}
+      \field{userf}{en}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{866\bibrangedash 885}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/TVCG.2012.160
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2012.160
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2012.160
+      \endverb
+    \endentry
+    \entry{Yitzhak2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=06f10bde43980e93cfd6156d4c69300b}{%
+           family={Weissman},
+           familyi={W\bibinitperiod},
+           given={Yitzhak},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{06f10bde43980e93cfd6156d4c69300b}
+      \strng{fullhash}{06f10bde43980e93cfd6156d4c69300b}
+      \strng{bibnamehash}{06f10bde43980e93cfd6156d4c69300b}
+      \strng{authorbibnamehash}{06f10bde43980e93cfd6156d4c69300b}
+      \strng{authornamehash}{06f10bde43980e93cfd6156d4c69300b}
+      \strng{authorfullhash}{06f10bde43980e93cfd6156d4c69300b}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9655724913}
+      \field{title}{Lenticular Imaging: Theory and Practice}
+      \field{userf}{en}
+      \field{year}{2018}
+    \endentry
+    \entry{Kim2012}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6326da3a340844feccaf5eda3d23ddd8}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Seokhwan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d92e2a3a95d831b86eb966447e8b2c75}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d2a569d2e2f95930879c570be2a48a38}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haimo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=19be0c49434a1e7186b9a7c09e23f38a}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Desney},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{13d7af68a8b5b0f61a32c7ae3b6d0a2d}
+      \strng{fullhash}{c7c60ac8f502ce50fe290dcd7d5f80af}
+      \strng{bibnamehash}{13d7af68a8b5b0f61a32c7ae3b6d0a2d}
+      \strng{authorbibnamehash}{13d7af68a8b5b0f61a32c7ae3b6d0a2d}
+      \strng{authornamehash}{13d7af68a8b5b0f61a32c7ae3b6d0a2d}
+      \strng{authorfullhash}{c7c60ac8f502ce50fe290dcd7d5f80af}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
+      \field{isbn}{9781450310154}
+      \field{series}{CHI ’12}
+      \field{title}{Enabling Concurrent Dual Views on Common LCD Screens}
+      \field{userf}{en}
+      \field{year}{2012}
+      \field{pages}{2175\bibrangedash 2184}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/2207676.2208369
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2207676.2208369
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2207676.2208369
+      \endverb
+      \keyw{LCD,dual-view display,twisted nematic.}
+    \endentry
+    \entry{Cockburn2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=99db9681218f9f3b317f9a5aa016d284}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77bca2ffe87ee8e5d371a0de78a5e4c1}{%
+           family={Karlson},
+           familyi={K\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=343fd481e7163620ce9f664b845a37a3}{%
+           family={Bederson},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima B.},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \strng{fullhash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \strng{bibnamehash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \strng{authorbibnamehash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \strng{authornamehash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \strng{authorfullhash}{8fd8a4c20d1287182fdf3ca110de972a}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{journaltitle}{ACM Computing Survey}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Review of Overview+detail, Zooming, and Focus+context Interfaces}
+      \field{userf}{en}
+      \field{volume}{41}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1145/1456650.1456652
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1456650.1456652
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1456650.1456652
+      \endverb
+      \keyw{Information display,review paper,zoomable user interfaces,fisheye views,focus+context,information visualization,overview+detail}
+    \endentry
+    \entry{Hao2007}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=60088dd7a7932da7fd83c35370f572fd}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=df58e4196ac8acd3bd9941a5277229d1}{%
+           family={Dayal},
+           familyi={D\bibinitperiod},
+           given={Umeshwar},
+           giveni={U\bibinitperiod}}}%
+        {{hash=f98f00e0e766385de069a2d2e093bd6f}{%
+           family={Keim},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=009a015564cbfad484a74adc52c7e518}{%
+           family={Schreck},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Eurographics Association}%
+      }
+      \strng{namehash}{7b593574d5db46d68762167c8dc3407c}
+      \strng{fullhash}{d7b578d381bc3fffdd52f385f768741f}
+      \strng{bibnamehash}{7b593574d5db46d68762167c8dc3407c}
+      \strng{authorbibnamehash}{7b593574d5db46d68762167c8dc3407c}
+      \strng{authornamehash}{7b593574d5db46d68762167c8dc3407c}
+      \strng{authorfullhash}{d7b578d381bc3fffdd52f385f768741f}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Eurographics/ IEEE-VGTC Symposium on Visualization}
+      \field{isbn}{978-3-905673-45-6}
+      \field{issn}{1727-5296}
+      \field{title}{{Multi-Resolution Techniques for Visual Exploration of Large Time-Series Data}}
+      \field{userf}{en}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.2312/VisSym/EuroVis07/027-034
+      \endverb
+    \endentry
+    \entry{Viegas2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=35af70e75084239aeed5dc48410063b0}{%
+           family={Viégas},
+           familyi={V\bibinitperiod},
+           given={Fernanda\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c66133f96104e3c0dcd2f73e11469ab0}{%
+           family={Wattenberg},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6f737fda9c8aa8530371eb48af35d0f1}{%
+           family={Feinberg},
+           familyi={F\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{d2dce167e6a1199a8dc0629281f1d823}
+      \strng{fullhash}{d2dce167e6a1199a8dc0629281f1d823}
+      \strng{bibnamehash}{d2dce167e6a1199a8dc0629281f1d823}
+      \strng{authorbibnamehash}{d2dce167e6a1199a8dc0629281f1d823}
+      \strng{authornamehash}{d2dce167e6a1199a8dc0629281f1d823}
+      \strng{authorfullhash}{d2dce167e6a1199a8dc0629281f1d823}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{Participatory Visualization with Wordle}
+      \field{userf}{en}
+      \field{volume}{15}
+      \field{year}{2009}
+      \field{pages}{1137\bibrangedash 1144}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/tvcg.2009.171
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2009.171
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2009.171
+      \endverb
+    \endentry
+    \entry{Strobelt2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a85b9d810e347887e980178bf45356b4}{%
+           family={Strobelt},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e8257c21fffe412ae3ed0d5c41567331}{%
+           family={Spicker},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8be19698dfadd9bbe9485d6f14c8c030}{%
+           family={Stoffel},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bf2059baced51869eaf5d4a0f60bf79a}{%
+           family={Keim},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fd8acc72c2ab41f48c406ae645896bcc}{%
+           family={Deussen},
+           familyi={D\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Eurographs Association \& John Wiley \& Sons, Ltd.}%
+      }
+      \strng{namehash}{9a3774b1da80d7d2d83fdd2d779db857}
+      \strng{fullhash}{24e6e4b7413c3ef71dd8df8a1e6f4b4c}
+      \strng{bibnamehash}{9a3774b1da80d7d2d83fdd2d779db857}
+      \strng{authorbibnamehash}{9a3774b1da80d7d2d83fdd2d779db857}
+      \strng{authornamehash}{9a3774b1da80d7d2d83fdd2d779db857}
+      \strng{authorfullhash}{24e6e4b7413c3ef71dd8df8a1e6f4b4c}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-7055}
+      \field{journaltitle}{Computer Graphics Forum}
+      \field{number}{3}
+      \field{title}{Rolled-out Wordles: A Heuristic Method for Overlap Removal of 2D Data Representatives}
+      \field{userf}{en}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{1135\bibrangedash 1144}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1467-8659.2012.03106.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1467-8659.2012.03106.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1467-8659.2012.03106.x
+      \endverb
+      \keyw{I.3.3 [Computer Graphics]: Picture/Image Generation—Line and curve generation}
+    \endentry
+    \entry{Cui2010}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=37c9f6555067118798a6376a9da03a0a}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=df7b9e1001fdbc6966fbc3a3c46179e2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yingcai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f71775b7cd8457e39479f68035d08a5c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shixia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e5bfd490d91c5d1b935092ce3132a083}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Furu},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6d1d0633c54fd034b03f5ad297c24a26}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Michelle\bibnamedelima X.},
+           giveni={M\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=043ff18d02574fa658166a68afc1146d}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Huamin},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{bed639627dfb3cfe6a09cd3872bab2c0}
+      \strng{fullhash}{2dcfe4cbecdb17198b845520bee0e048}
+      \strng{bibnamehash}{bed639627dfb3cfe6a09cd3872bab2c0}
+      \strng{authorbibnamehash}{bed639627dfb3cfe6a09cd3872bab2c0}
+      \strng{authornamehash}{bed639627dfb3cfe6a09cd3872bab2c0}
+      \strng{authorfullhash}{2dcfe4cbecdb17198b845520bee0e048}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IEEE} Pacific Visualization Symposium PacificVis 2010, Taipei, Taiwan, March 2-5, 2010}
+      \field{title}{Context preserving dynamic word cloud visualization}
+      \field{userf}{en}
+      \field{year}{2010}
+      \field{pages}{121\bibrangedash 128}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/PACIFICVIS.2010.5429600
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/PACIFICVIS.2010.5429600
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/PACIFICVIS.2010.5429600
+      \endverb
+    \endentry
+    \entry{Wu2011}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=df7b9e1001fdbc6966fbc3a3c46179e2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yingcai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=65b00b86809c86588933804d21c1a095}{%
+           family={Provan},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e5bfd490d91c5d1b935092ce3132a083}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Furu},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f71775b7cd8457e39479f68035d08a5c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shixia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f806ae3b09e379a16d2b765c00924d56}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Kwan-Liu},
+           giveni={K\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{127ee3edd9a845b11ace862578654fcf}
+      \strng{fullhash}{54888d64505857f258dfba6cee463c18}
+      \strng{bibnamehash}{127ee3edd9a845b11ace862578654fcf}
+      \strng{authorbibnamehash}{127ee3edd9a845b11ace862578654fcf}
+      \strng{authornamehash}{127ee3edd9a845b11ace862578654fcf}
+      \strng{authorfullhash}{54888d64505857f258dfba6cee463c18}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th Eurographics / IEEE - VGTC Conference on Visualization}
+      \field{series}{EuroVis’11}
+      \field{title}{Semantic-Preserving Word Clouds by Seam Carving}
+      \field{userf}{en}
+      \field{year}{2011}
+      \field{pages}{741\bibrangedash 750}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1467-8659.2011.01923.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1467-8659.2011.01923.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1467-8659.2011.01923.x
+      \endverb
+    \endentry
+    \entry{Koh2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=906a99bce710e359e7428227fba5b931}{%
+           family={Koh},
+           familyi={K\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod}}}%
+        {{hash=676dc38f9d5c05da09549d1d5e56f703}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bongshin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=662410314033dfae8c480ae299c6968f}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Bo\bibnamedelima Hyoung},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=86987632669ccd24bfdfb36919f898e4}{%
+           family={Seo},
+           familyi={S\bibinitperiod},
+           given={Jinwook},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7bd5e33ccf93b66bd5ca83b4c2ca4bb}
+      \strng{fullhash}{836ba8697399c78fe7d120c195841691}
+      \strng{bibnamehash}{d7bd5e33ccf93b66bd5ca83b4c2ca4bb}
+      \strng{authorbibnamehash}{d7bd5e33ccf93b66bd5ca83b4c2ca4bb}
+      \strng{authornamehash}{d7bd5e33ccf93b66bd5ca83b4c2ca4bb}
+      \strng{authorfullhash}{836ba8697399c78fe7d120c195841691}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions of Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{ManiWordle: Providing Flexible Control over Wordle}
+      \field{userf}{en}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{1190\bibrangedash 1197}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/TVCG.2010.175
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2010.175
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2010.175
+      \endverb
+    \endentry
+    \entry{Jo2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6dbdc87c9beda6ec4f46a281fdde2a38}{%
+           family={Jo},
+           familyi={J\bibinitperiod},
+           given={Jaemin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=676dc38f9d5c05da09549d1d5e56f703}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bongshin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=86987632669ccd24bfdfb36919f898e4}{%
+           family={Seo},
+           familyi={S\bibinitperiod},
+           given={Jinwook},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{10097cc16533c1379636de9dcb7edcd6}
+      \strng{fullhash}{10097cc16533c1379636de9dcb7edcd6}
+      \strng{bibnamehash}{10097cc16533c1379636de9dcb7edcd6}
+      \strng{authorbibnamehash}{10097cc16533c1379636de9dcb7edcd6}
+      \strng{authornamehash}{10097cc16533c1379636de9dcb7edcd6}
+      \strng{authorfullhash}{10097cc16533c1379636de9dcb7edcd6}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Computer Graphics and Applications}
+      \field{number}{6}
+      \field{title}{{WordlePlus}: Expanding Wordle{'}s Use through Natural Interaction and Animation}
+      \field{userf}{en}
+      \field{volume}{35}
+      \field{year}{2015}
+      \field{pages}{20\bibrangedash 28}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/mcg.2015.113
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/mcg.2015.113
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/mcg.2015.113
+      \endverb
+    \endentry
+    \entry{Wang2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=eb3c765eef1c131b497c54ad20f592e4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yunhai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=30ddc54bb140f6df92f695f6724f4dd4}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f309e2501e05de24a0bfcf7691ae6864}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=902596c9432e7dd47eee01f6063299c1}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Lifeng},
+           giveni={L\bibinitperiod}}}%
+        {{hash=675352a3dd6162348006cba3551962ee}{%
+           family={Deussen},
+           familyi={D\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=5f2cdf2c163110e212cb66e7aa399101}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Baoquan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7613acc9e67abb0fc4d410f2803f868c}{%
+           family={Sedlmair},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{6dcd204a0ece7b075d91150ebc3811c3}
+      \strng{fullhash}{70839907c2a9b85a723c2ff260b62e9f}
+      \strng{bibnamehash}{6dcd204a0ece7b075d91150ebc3811c3}
+      \strng{authorbibnamehash}{6dcd204a0ece7b075d91150ebc3811c3}
+      \strng{authornamehash}{6dcd204a0ece7b075d91150ebc3811c3}
+      \strng{authorfullhash}{70839907c2a9b85a723c2ff260b62e9f}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{1}
+      \field{title}{{EdWordle}: Consistency-Preserving Word Cloud Editing}
+      \field{userf}{en}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{pages}{647\bibrangedash 656}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/tvcg.2017.2745859
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2017.2745859
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2017.2745859
+      \endverb
+    \endentry
+    \entry{Chi2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=568ad68c6df8dc666efcff21db152d53}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Ming{-}Te},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7065538f3b8b915485508a0cf69e31b6}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Shih{-}Syun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=043dcbaa6215a0a5c8b1538a4dce423e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shiang{-}Yi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2cac2f302a4936c233b050c762ebcef1}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chao{-}Hung},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9e3b3e175c3d7a1592a427dc40fbac90}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Tong{-}Yee},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{642da9dae5c059c479076f262d423f2b}
+      \strng{fullhash}{259c8b092cf2233bb7f1747ebf2e1e18}
+      \strng{bibnamehash}{642da9dae5c059c479076f262d423f2b}
+      \strng{authorbibnamehash}{642da9dae5c059c479076f262d423f2b}
+      \strng{authornamehash}{642da9dae5c059c479076f262d423f2b}
+      \strng{authorfullhash}{259c8b092cf2233bb7f1747ebf2e1e18}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions of Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Morphable Word Clouds for Time-Varying Text Data Visualization}
+      \field{userf}{en}
+      \field{volume}{21}
+      \field{year}{2015}
+      \field{pages}{1415\bibrangedash 1426}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TVCG.2015.2440241
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2015.2440241
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2015.2440241
+      \endverb
+    \endentry
+    \entry{Barth2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6f31ab50ee0703eaba6541067fdc612b}{%
+           family={Barth},
+           familyi={B\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1103fd1d40826cb7acec8bec46513e47}{%
+           family={Kobourov},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5ab199a65487e55d374000d386c01a78}{%
+           family={Pupyrev},
+           familyi={P\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{5334d0038cb2d4680e607d8929559860}
+      \strng{fullhash}{5334d0038cb2d4680e607d8929559860}
+      \strng{bibnamehash}{5334d0038cb2d4680e607d8929559860}
+      \strng{authorbibnamehash}{5334d0038cb2d4680e607d8929559860}
+      \strng{authornamehash}{5334d0038cb2d4680e607d8929559860}
+      \strng{authorfullhash}{5334d0038cb2d4680e607d8929559860}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 13th International Symposium on Experimental Algorithms - Volume 8504}
+      \field{isbn}{9783319079585}
+      \field{title}{Experimental Comparison of Semantic Word Clouds}
+      \field{userf}{en}
+      \field{year}{2014}
+      \field{pages}{247\bibrangedash 258}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-07959-2_21
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-07959-2_21
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-07959-2_21
+      \endverb
+    \endentry
+    \entry{Lohmann2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ae4127b539f64c1922842f05b7fda79f}{%
+           family={Lohmann},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=144a745417914e451d49fa85f43d29b7}{%
+           family={Ziegler},
+           familyi={Z\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a2958fd559c69a3a4be075e39e0a0520}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Uppsala, Sweden}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \strng{fullhash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \strng{bibnamehash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \strng{authorbibnamehash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \strng{authornamehash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \strng{authorfullhash}{0b2be61ea7007d332a0b14b3f230dca0}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 12th IFIP TC 13 International Conference on Human-Computer Interaction: Part I}
+      \field{isbn}{9783642036545}
+      \field{series}{INTERACT ’09}
+      \field{title}{Comparison of Tag Cloud Layouts: Task-Related Performance and Visual Exploration}
+      \field{userf}{en}
+      \field{year}{2009}
+      \field{pages}{392\bibrangedash 404}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-642-03655-2_43
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-03655-2_43
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-03655-2_43
+      \endverb
+      \keyw{Folksonomy,Perception,Eye Tracking,Navigation,Tag Clouds,Visualization,Performance,Evaluation,User Goals,Tagging}
+    \endentry
+    \entry{Viegas2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52a9de67251dbbb88de45491438463a8}{%
+           family={Vi{é}gas},
+           familyi={V\bibinitperiod},
+           given={Fernanda\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c66133f96104e3c0dcd2f73e11469ab0}{%
+           family={Wattenberg},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery ({ACM})}%
+      }
+      \strng{namehash}{439e6170d0ef252bd716580774912de4}
+      \strng{fullhash}{439e6170d0ef252bd716580774912de4}
+      \strng{bibnamehash}{439e6170d0ef252bd716580774912de4}
+      \strng{authorbibnamehash}{439e6170d0ef252bd716580774912de4}
+      \strng{authornamehash}{439e6170d0ef252bd716580774912de4}
+      \strng{authorfullhash}{439e6170d0ef252bd716580774912de4}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Interactions}
+      \field{number}{4}
+      \field{title}{Tag clouds and the case for vernacular visualization}
+      \field{userf}{en}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{49\bibrangedash 52}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/1374489.1374501
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1374489.1374501
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1374489.1374501
+      \endverb
+    \endentry
+    \entry{Felix2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d2efe53ff29861143c48432ac3306415}{%
+           family={Felix},
+           familyi={F\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d958d6e88baf89e6c6257c4699af1357}{%
+           family={Franconeri},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4d754bd415aad8aceacd2b422f33089f}{%
+           family={Bertini},
+           familyi={B\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \strng{fullhash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \strng{bibnamehash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \strng{authorbibnamehash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \strng{authornamehash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \strng{authorfullhash}{8ebebd46bd0e8009e78b28d4d6c6049e}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{1}
+      \field{title}{Taking Word Clouds Apart: An Empirical Investigation of the Design Space for Keyword Summaries}
+      \field{userf}{en}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{pages}{657\bibrangedash 666}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/tvcg.2017.2746018
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2017.2746018
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2017.2746018
+      \endverb
+    \endentry
+    \entry{Hu2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e6d436ee344252f8a851d74db95cea86}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Mengdie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=65e3e1a86f9b23d4910a9f77a49c2eb5}{%
+           family={Wongsuphasawat},
+           familyi={W\bibinitperiod},
+           given={Krist},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fafd31a5032b31a42bb33c9f1bc02ed7}{%
+           family={Stasko},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Educational Activities Department}%
+      }
+      \strng{namehash}{408c815c328b46452bab3195874822bb}
+      \strng{fullhash}{408c815c328b46452bab3195874822bb}
+      \strng{bibnamehash}{408c815c328b46452bab3195874822bb}
+      \strng{authorbibnamehash}{408c815c328b46452bab3195874822bb}
+      \strng{authornamehash}{408c815c328b46452bab3195874822bb}
+      \strng{authorfullhash}{408c815c328b46452bab3195874822bb}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1077-2626}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{1}
+      \field{title}{Visualizing Social Media Content with SentenTree}
+      \field{userf}{en}
+      \field{year}{2017}
+      \field{pages}{621\bibrangedash 630}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TVCG.2016.2598590
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2016.2598590
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2016.2598590
+      \endverb
+    \endentry
+    \entry{Collins2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6316de879a3821875d6c55cbf2d9079e}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52a9de67251dbbb88de45491438463a8}{%
+           family={Vi{é}gas},
+           familyi={V\bibinitperiod},
+           given={Fernanda\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c66133f96104e3c0dcd2f73e11469ab0}{%
+           family={Wattenberg},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{68eb8c7492ca75372890035bc01ab491}
+      \strng{fullhash}{68eb8c7492ca75372890035bc01ab491}
+      \strng{bibnamehash}{68eb8c7492ca75372890035bc01ab491}
+      \strng{authorbibnamehash}{68eb8c7492ca75372890035bc01ab491}
+      \strng{authornamehash}{68eb8c7492ca75372890035bc01ab491}
+      \strng{authorfullhash}{68eb8c7492ca75372890035bc01ab491}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {IEEE} Symposium on Visual Analytics Science and Technology, {IEEE} {VAST} 2009, Atlantic City, New Jersey, USA, 11-16 October 2009, part of VisWeek 2009}
+      \field{title}{Parallel Tag Clouds to explore and analyze faceted text corpora}
+      \field{userf}{en}
+      \field{year}{2009}
+      \field{pages}{91\bibrangedash 98}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/VAST.2009.5333443
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/VAST.2009.5333443
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/VAST.2009.5333443
+      \endverb
+    \endentry
+    \entry{Lee2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=676dc38f9d5c05da09549d1d5e56f703}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bongshin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4b3f9edbce2ec8ec78abccb9c7e742cc}{%
+           family={Riche},
+           familyi={R\bibinitperiod},
+           given={Nathalie\bibnamedelima Henry},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=368ca32ff62566d12faf26673a1c694f}{%
+           family={Karlson},
+           familyi={K\bibinitperiod},
+           given={Amy\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=86523b3075dd8d3f156558fa1cc7cbd8}{%
+           family={Carpendale},
+           familyi={C\bibinitperiod},
+           given={Sheelash},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{8a423f5ab5a6be87db44a20d1d5015e0}
+      \strng{fullhash}{7bfa00be1b8719ec78e81267a0c1d58c}
+      \strng{bibnamehash}{8a423f5ab5a6be87db44a20d1d5015e0}
+      \strng{authorbibnamehash}{8a423f5ab5a6be87db44a20d1d5015e0}
+      \strng{authornamehash}{8a423f5ab5a6be87db44a20d1d5015e0}
+      \strng{authorfullhash}{7bfa00be1b8719ec78e81267a0c1d58c}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{{SparkClouds}: Visualizing Trends in Tag Clouds}
+      \field{userf}{en}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{1182\bibrangedash 1189}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/tvcg.2010.194
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tvcg.2010.194
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tvcg.2010.194
+      \endverb
+    \endentry
+    \entry{Dang2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=dac16d795d95936828933b1e3af297a0}{%
+           family={Dang},
+           familyi={D\bibinitperiod},
+           given={Tommy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=169a37687c7704c5b5c8816e10a0e8fa}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Huyen\bibnamedelima N.},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=eccfbe670ec72103f4c19b21f9ac6a46}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Vung},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Eurographics Association}%
+      }
+      \strng{namehash}{633dfafd62ac51b136dbccc537b53838}
+      \strng{fullhash}{633dfafd62ac51b136dbccc537b53838}
+      \strng{bibnamehash}{633dfafd62ac51b136dbccc537b53838}
+      \strng{authorbibnamehash}{633dfafd62ac51b136dbccc537b53838}
+      \strng{authornamehash}{633dfafd62ac51b136dbccc537b53838}
+      \strng{authorfullhash}{633dfafd62ac51b136dbccc537b53838}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EuroVis 2019 - Short Papers}
+      \field{isbn}{978-3-03868-090-1}
+      \field{title}{{WordStream: Interactive Visualization for Topic Evolution}}
+      \field{userf}{en}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.2312/evs.20191178
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2312/evs.20191178
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2312/evs.20191178
+      \endverb
+    \endentry
+    \entry{Paul2019}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5b584881b90ff2992eb44d5785d2a88e}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Celeste\bibnamedelima Lyn},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2cb19a37878c7f55c11f2fbbc7dc8b92}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a8bb1f5c62f1c6c334068bd1b0e9e5a2}{%
+           family={Endert},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3a2810eae1b0cde1e8e9ec1566bdc7f5}{%
+           family={Cramer},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f234a8db6f1b4c9b612753ee95b499c5}{%
+           family={Gillen},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5473f8d17d202b995588932542531371}{%
+           family={Hampton},
+           familyi={H\bibinitperiod},
+           given={Shawn\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=88b4ec0ffd05568b4a2be2e306b4e912}{%
+           family={Burtner},
+           familyi={B\bibinitperiod},
+           given={Russ},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c10239781e5bbbda056e905c1c952ea2}{%
+           family={Perko},
+           familyi={P\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a739cf2085882917b3a7fd03c69e737e}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Kristin\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dda7b1fc34a58e7e5cc046f3453e53b}
+      \strng{fullhash}{a600b18711689bfa06876f9508417c7d}
+      \strng{bibnamehash}{6dda7b1fc34a58e7e5cc046f3453e53b}
+      \strng{authorbibnamehash}{6dda7b1fc34a58e7e5cc046f3453e53b}
+      \strng{authornamehash}{6dda7b1fc34a58e7e5cc046f3453e53b}
+      \strng{authorfullhash}{a600b18711689bfa06876f9508417c7d}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Visualization}
+      \field{number}{3}
+      \field{title}{TexTonic: Interactive visualization for exploration and discovery of very large text collections}
+      \field{userf}{en}
+      \field{volume}{18}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1177/1473871618785390
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1473871618785390
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1473871618785390
+      \endverb
+    \endentry
+    \entry{Wagemans2012ACO}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d7e27ab2f51b7cb54f8862f4f778dc97}{%
+           family={Wagemans},
+           familyi={W\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=199a00b0611ea7c489afc475e8cc8c10}{%
+           family={Elder},
+           familyi={E\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4404f7aa27147be8ab5fdccad099f700}{%
+           family={Kubovy},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9e3809892c14bd21d6ed0ed87fceeada}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Stephen\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6b7ca8628fccadb5a281dbb087e1fb0a}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Mary\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dc704c70f4182fae18251f7451f130b9}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Manish},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8cb397c8aeb2abd21922a9eb7d3354a6}{%
+           family={Heydt},
+           familyi={H\bibinitperiod},
+           given={R{ü}diger},
+           giveni={R\bibinitperiod},
+           prefix={von\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ca0cb03beb7cc360f8c9be74f42d3eb}
+      \strng{fullhash}{c62d03ba3f55e9a375cf2e4ec0f7427b}
+      \strng{bibnamehash}{0ca0cb03beb7cc360f8c9be74f42d3eb}
+      \strng{authorbibnamehash}{0ca0cb03beb7cc360f8c9be74f42d3eb}
+      \strng{authornamehash}{0ca0cb03beb7cc360f8c9be74f42d3eb}
+      \strng{authorfullhash}{c62d03ba3f55e9a375cf2e4ec0f7427b}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{6}
+      \field{title}{A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization.}
+      \field{userf}{en}
+      \field{volume}{138}
+      \field{year}{2012}
+      \field{pages}{1172\bibrangedash 1217}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1037/a0029333
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037/a0029333
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037/a0029333
+      \endverb
+    \endentry
+    \entry{Baldonado2000}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bd270d5c72bebeaccfe8e55d25f8f137}{%
+           family={Wang\bibnamedelima Baldonado},
+           familyi={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Michelle\bibnamedelima Q.},
+           giveni={M\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=8050df85e11c857642d4ea3ed0303c9c}{%
+           family={Woodruff},
+           familyi={W\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77ded5a60a092c570d08b2bb16d3a27a}{%
+           family={Kuchinsky},
+           familyi={K\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Palermo, Italy}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \strng{fullhash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \strng{bibnamehash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \strng{authorbibnamehash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \strng{authornamehash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \strng{authorfullhash}{41871bfd0f9ef6597e7e3a46f937b4b5}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Working Conference on Advanced Visual Interfaces}
+      \field{isbn}{1581132522}
+      \field{series}{AVI ’00}
+      \field{title}{Guidelines for Using Multiple Views in Information Visualization}
+      \field{userf}{en}
+      \field{year}{2000}
+      \field{pages}{110\bibrangedash 119}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/345513.345271
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/345513.345271
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/345513.345271
+      \endverb
+      \keyw{user interfaces,design guidelines,multiple views,information visualization,usability heuristics}
+    \endentry
+    \entry{Eick2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=309037f87f38c4bf67cea3975e2ad73f}{%
+           family={Eick},
+           familyi={E\bibinitperiod},
+           given={Stephen\bibnamedelima G},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=e0e8e74558e7d5ac73a478a2be86c98f}{%
+           family={Karr},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9d960efb6904bebfb821b07184c3f9f}
+      \strng{fullhash}{f9d960efb6904bebfb821b07184c3f9f}
+      \strng{bibnamehash}{f9d960efb6904bebfb821b07184c3f9f}
+      \strng{authorbibnamehash}{f9d960efb6904bebfb821b07184c3f9f}
+      \strng{authornamehash}{f9d960efb6904bebfb821b07184c3f9f}
+      \strng{authorfullhash}{f9d960efb6904bebfb821b07184c3f9f}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational and Graphical Statistics}
+      \field{number}{1}
+      \field{title}{Visual Scalability}
+      \field{userf}{en}
+      \field{volume}{11}
+      \field{year}{2002}
+      \field{pages}{22\bibrangedash 43}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1198/106186002317375604
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1198/106186002317375604
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1198/106186002317375604
+      \endverb
+    \endentry
+    \entry{DBLP:journals/software/Schneiderman94}{article}{}
+      \name{author}{1}{}{%
+        {{hash=39afccc0f55ae7821df79ffd677c90b0}{%
+           family={Shneiderman},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{fullhash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{bibnamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authorbibnamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authornamehash}{39afccc0f55ae7821df79ffd677c90b0}
+      \strng{authorfullhash}{39afccc0f55ae7821df79ffd677c90b0}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Software}
+      \field{number}{6}
+      \field{title}{Dynamic Queries for Visual Information Seeking}
+      \field{userf}{en}
+      \field{volume}{11}
+      \field{year}{1994}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/52.329404
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/52.329404
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/52.329404
+      \endverb
+    \endentry
+    \entry{Johann2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3b0e973226f7efb4614f9cd3f1c54388}{%
+           family={Schrammel},
+           familyi={S\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod}}}%
+        {{hash=62df1a137c9dc706a532020ab33d4567}{%
+           family={Leitner},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d04cbd42ed09035ecade34520a9a040}{%
+           family={Tscheligi},
+           familyi={T\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{f4095a76132308b76464767c6380b206}
+      \strng{fullhash}{f4095a76132308b76464767c6380b206}
+      \strng{bibnamehash}{f4095a76132308b76464767c6380b206}
+      \strng{authorbibnamehash}{f4095a76132308b76464767c6380b206}
+      \strng{authornamehash}{f4095a76132308b76464767c6380b206}
+      \strng{authorfullhash}{f4095a76132308b76464767c6380b206}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
+      \field{isbn}{9781605582467}
+      \field{series}{CHI ’09}
+      \field{title}{Semantically Structured Tag Clouds: An Empirical Evaluation of Clustered Presentation Approaches}
+      \field{userf}{en}
+      \field{year}{2009}
+      \field{pages}{2037\bibrangedash 2040}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/1518701.1519010
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1518701.1519010
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1518701.1519010
+      \endverb
+      \keyw{tag clouds,clustering,folksonomy,visualization}
+    \endentry
+    \entry{Hearst2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5e7ce2b4ef72492ff0e28a03000fe45e}{%
+           family={Hearst},
+           familyi={H\bibinitperiod},
+           given={Marti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=703c70419276230bb1b82305e23ade4f}{%
+           family={Pedersen},
+           familyi={P\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d407788af0cb8d8c401af5cb828f1a4e}{%
+           family={Patil},
+           familyi={P\bibinitperiod},
+           given={Lekha\bibnamedelima Priya},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e8194690ada8497f0c3d5ae1e7eafe12}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Elsie},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3255b3c20dbc61e4ed35d286d5ff7b06}{%
+           family={Laskowski},
+           familyi={L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d958d6e88baf89e6c6257c4699af1357}{%
+           family={Franconeri},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0305a90b7a9b9369f70b0f546fc30c5b}
+      \strng{fullhash}{8ef0b495bdc54033e8df4ff11fbd0503}
+      \strng{bibnamehash}{0305a90b7a9b9369f70b0f546fc30c5b}
+      \strng{authorbibnamehash}{0305a90b7a9b9369f70b0f546fc30c5b}
+      \strng{authornamehash}{0305a90b7a9b9369f70b0f546fc30c5b}
+      \strng{authorfullhash}{8ef0b495bdc54033e8df4ff11fbd0503}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions of Visualization and Computer Graphics}
+      \field{title}{An Evaluation of Semantically Grouped Word Cloud Designs	}
+      \field{userf}{en}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1109/TVCG.2019.2904683
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TVCG.2019.2904683
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TVCG.2019.2904683
+      \endverb
+    \endentry
+    \entry{Kulahcioglu2019}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1c8dc52ee4780a44457fdd845425dc08}{%
+           family={Kulahcioglu},
+           familyi={K\bibinitperiod},
+           given={Tugba},
+           giveni={T\bibinitperiod}}}%
+        {{hash=96fa7de0e15705cafb281ade1eaecfd0}{%
+           family={Melo},
+           familyi={M\bibinitperiod},
+           given={Gerard},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7c207032836654004193525b921b9714}
+      \strng{fullhash}{7c207032836654004193525b921b9714}
+      \strng{bibnamehash}{7c207032836654004193525b921b9714}
+      \strng{authorbibnamehash}{7c207032836654004193525b921b9714}
+      \strng{authornamehash}{7c207032836654004193525b921b9714}
+      \strng{authorfullhash}{7c207032836654004193525b921b9714}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 24th International Conference on Intelligent User Interfaces}
+      \field{title}{Paralinguistic recommendations for affective word clouds}
+      \field{userf}{en}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1145/3301275.3302327
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3301275.3302327
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3301275.3302327
+      \endverb
+    \endentry
+    \entry{hurvich1957opponent}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fac4838814b14920ed44d48c1abfb3a7}{%
+           family={Hurvich},
+           familyi={H\bibinitperiod},
+           given={Leo\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f7c41299d7f675e1af549711b08a2bea}{%
+           family={Jameson},
+           familyi={J\bibinitperiod},
+           given={Dorothea},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \strng{fullhash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \strng{bibnamehash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \strng{authorbibnamehash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \strng{authornamehash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \strng{authorfullhash}{478b25efaf67bb9fbd20b42ee07b9379}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{6}
+      \field{title}{An opponent-process theory of color vision.}
+      \field{userf}{en}
+      \field{volume}{64}
+      \field{year}{1957}
+      \field{pages}{384\bibrangedash 404}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1037/h0041403
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1037/h0041403
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1037/h0041403
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

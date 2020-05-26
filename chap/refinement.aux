@@ -1,0 +1,193 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {chapter}{\numberline {第四章\hspace  {.3em}}双分辨率词云可视化}{16}{chapter.4}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\addvspace {10.0pt}}
+\@writefile{lot}{\defcounter {refsection}{0}\relax }\@writefile{lot}{\addvspace {10.0pt}}
+\newlabel{sec:refinement}{{四}{16}{双分辨率词云可视化}{chapter.4}{}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces 多分辨词云生成流程。\relax }}{16}{figure.caption.20}}
+\newlabel{fig:pipeline}{{4.1}{16}{多分辨词云生成流程。\relax }{figure.caption.20}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {section}{\numberline {4.1}数据}{16}{section.4.1}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 双分辨率词云数据模型。\relax }}{16}{figure.caption.21}}
+\newlabel{fig:data_model}{{4.2}{16}{双分辨率词云数据模型。\relax }{figure.caption.21}{}}
+\@writefile{lol}{\defcounter {refsection}{0}\relax }\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.1}数据模型}{17}{lstlisting.4.1}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {section}{\numberline {4.2}布局算法}{18}{section.4.2}}
+\newlabel{sec:layout}{{4.2}{18}{布局算法}{section.4.2}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}基础布局}{18}{subsection.4.2.1}}
+\@writefile{loa}{\defcounter {refsection}{0}\relax }\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces 适用于轮廓限制的贪心词云布局算法\relax }}{18}{algorithm.1}}
+\newlabel{alg:basic_layout}{{1}{18}{适用于轮廓限制的贪心词云布局算法\relax }{algorithm.1}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}子文本布局}{18}{subsection.4.2.2}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {paragraph}{区域分割}{18}{paragraph*.22}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces 基于父文本布局的子文本区域分割算法示意图。左：原始父词云及其外接矩形，根据是否存在重叠得到各边扩张（绿）/收缩（红）的初始设定。右：经过逐步迭代后得到稳定的分割结果。\relax }}{19}{figure.caption.23}}
+\newlabel{fig:expand_alg}{{4.3}{19}{基于父文本布局的子文本区域分割算法示意图。左：原始父词云及其外接矩形，根据是否存在重叠得到各边扩张（绿）/收缩（红）的初始设定。右：经过逐步迭代后得到稳定的分割结果。\relax }{figure.caption.23}{}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces 左：子文本区域动态收缩/增长的监测规则与边界条件。黑色与红色矩形分别对应判断词云主体与相关区域。右：基于贪心策略的区域伸展策略。当黑色矩形需要向上伸展时，考察其上部在水平方向与其产生交叠的矩形区域，并基于距离最近矩形限制进行伸展。\relax }}{19}{figure.caption.24}}
+\newlabel{fig:collide_rule}{{4.4}{19}{左：子文本区域动态收缩/增长的监测规则与边界条件。黑色与红色矩形分别对应判断词云主体与相关区域。右：基于贪心策略的区域伸展策略。当黑色矩形需要向上伸展时，考察其上部在水平方向与其产生交叠的矩形区域，并基于距离最近矩形限制进行伸展。\relax }{figure.caption.24}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {paragraph}{分步布局}{20}{paragraph*.25}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces 子词云分布布局的流程。首先以父文本构造布局约束，得到内层词云。再通过膨胀父文本结构后求反得到外层词云的布局约束，由此获得内层词云。\relax }}{20}{figure.caption.26}}
+\newlabel{fig:sublayout}{{4.5}{20}{子词云分布布局的流程。首先以父文本构造布局约束，得到内层词云。再通过膨胀父文本结构后求反得到外层词云的布局约束，由此获得内层词云。\relax }{figure.caption.26}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}算法加速}{20}{subsection.4.2.3}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces 不同分辨率下的文字``好''，从左至右由10\texttt  {px}至22\texttt  {px}。分辨率越低，字形失真越严重。\relax }}{21}{figure.caption.27}}
+\newlabel{fig:font_size}{{4.6}{21}{不同分辨率下的文字``好''，从左至右由10\texttt {px}至22\texttt {px}。分辨率越低，字形失真越严重。\relax }{figure.caption.27}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {section}{\numberline {4.3}混合图像}{21}{section.4.3}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}词云融合}{21}{subsection.4.3.1}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces 词云融合的流程图：保留父文本词云的高频分量，与子文本词云通过透明度互相叠加。\relax }}{22}{figure.caption.28}}
+\newlabel{fig:blend}{{4.7}{22}{词云融合的流程图：保留父文本词云的高频分量，与子文本词云通过透明度互相叠加。\relax }{figure.caption.28}{}}
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}颜色编码}{23}{subsection.4.3.2}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces 色彩空间。左：不同亮度下人眼所能感知到的颜色示意（图源：NASA Earth Observatory\footnotemark ，标记经笔者翻译）。右：LCH色彩空间，分别对应亮度L、色度/饱和度C、与色相H（图源：维基百科\footnotemark ）。\relax }}{23}{figure.caption.29}}
+\newlabel{fig:color_rationale}{{4.8}{23}{色彩空间。左：不同亮度下人眼所能感知到的颜色示意（图源：NASA Earth Observatory\protect \footnotemark ，标记经笔者翻译）。右：LCH色彩空间，分别对应亮度L、色度/饱和度C、与色相H（图源：维基百科\protect \footnotemark ）。\relax }{figure.caption.29}{}}
+\@writefile{lot}{\defcounter {refsection}{0}\relax }\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces 双分辨率词云色彩编码规则\relax }}{24}{table.caption.30}}
+\newlabel{tab:color_rule}{{4.1}{24}{双分辨率词云色彩编码规则\relax }{table.caption.30}{}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces 不同$\alpha $值下的多分辨率词云效果。在表\hspace  {0.25em plus 0.125em minus 0.08em}\ignorespaces \ref  {tab:color_rule}的规则下，0.3至0.5为宜。\relax }}{24}{figure.caption.31}}
+\newlabel{fig:alpha_comparison}{{4.9}{24}{不同$\alpha $值下的多分辨率词云效果。在表~\ref {tab:color_rule}的规则下，0.3至0.5为宜。\relax }{figure.caption.31}{}}
+\@writefile{lof}{\defcounter {refsection}{0}\relax }\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces 子词云颜色编码策略对比。左：基于RGB空间的扰动。右：基于LCH空间的扰动。\relax }}{24}{figure.caption.32}}
+\newlabel{fig:color_comparison}{{4.10}{24}{子词云颜色编码策略对比。左：基于RGB空间的扰动。右：基于LCH空间的扰动。\relax }{figure.caption.32}{}}
+\@setckpt{chap/refinement}{
+\setcounter{page}{25}
+\setcounter{equation}{0}
+\setcounter{enumi}{5}
+\setcounter{enumii}{3}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{2}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{3}
+\setcounter{subsection}{2}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{10}
+\setcounter{table}{1}
+\setcounter{parentequation}{0}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{ContinuedFloat}{0}
+\setcounter{subfigure}{0}
+\setcounter{subtable}{0}
+\setcounter{Item}{19}
+\setcounter{Hfootnote}{6}
+\setcounter{bookmark@seq@number}{31}
+\setcounter{tabx@nest}{0}
+\setcounter{listtotal}{0}
+\setcounter{listcount}{0}
+\setcounter{liststart}{0}
+\setcounter{liststop}{0}
+\setcounter{citecount}{0}
+\setcounter{citetotal}{0}
+\setcounter{multicitecount}{0}
+\setcounter{multicitetotal}{0}
+\setcounter{instcount}{97}
+\setcounter{maxnames}{3}
+\setcounter{minnames}{3}
+\setcounter{maxitems}{3}
+\setcounter{minitems}{3}
+\setcounter{citecounter}{0}
+\setcounter{savedcitecounter}{0}
+\setcounter{uniquelist}{0}
+\setcounter{uniquename}{0}
+\setcounter{refsection}{0}
+\setcounter{refsegment}{0}
+\setcounter{maxextratitle}{0}
+\setcounter{maxextratitleyear}{0}
+\setcounter{maxextradate}{0}
+\setcounter{maxextraalpha}{0}
+\setcounter{abbrvpenalty}{50}
+\setcounter{highnamepenalty}{50}
+\setcounter{lownamepenalty}{25}
+\setcounter{maxparens}{3}
+\setcounter{parenlevel}{0}
+\setcounter{mincomprange}{10}
+\setcounter{maxcomprange}{100000}
+\setcounter{mincompwidth}{1}
+\setcounter{afterword}{0}
+\setcounter{savedafterword}{0}
+\setcounter{annotator}{0}
+\setcounter{savedannotator}{0}
+\setcounter{author}{0}
+\setcounter{savedauthor}{0}
+\setcounter{bookauthor}{0}
+\setcounter{savedbookauthor}{0}
+\setcounter{commentator}{0}
+\setcounter{savedcommentator}{0}
+\setcounter{editor}{0}
+\setcounter{savededitor}{0}
+\setcounter{editora}{0}
+\setcounter{savededitora}{0}
+\setcounter{editorb}{0}
+\setcounter{savededitorb}{0}
+\setcounter{editorc}{0}
+\setcounter{savededitorc}{0}
+\setcounter{foreword}{0}
+\setcounter{savedforeword}{0}
+\setcounter{holder}{0}
+\setcounter{savedholder}{0}
+\setcounter{introduction}{0}
+\setcounter{savedintroduction}{0}
+\setcounter{namea}{0}
+\setcounter{savednamea}{0}
+\setcounter{nameb}{0}
+\setcounter{savednameb}{0}
+\setcounter{namec}{0}
+\setcounter{savednamec}{0}
+\setcounter{translator}{0}
+\setcounter{savedtranslator}{0}
+\setcounter{shortauthor}{0}
+\setcounter{savedshortauthor}{0}
+\setcounter{shorteditor}{0}
+\setcounter{savedshorteditor}{0}
+\setcounter{labelname}{0}
+\setcounter{savedlabelname}{0}
+\setcounter{institution}{0}
+\setcounter{savedinstitution}{0}
+\setcounter{lista}{0}
+\setcounter{savedlista}{0}
+\setcounter{listb}{0}
+\setcounter{savedlistb}{0}
+\setcounter{listc}{0}
+\setcounter{savedlistc}{0}
+\setcounter{listd}{0}
+\setcounter{savedlistd}{0}
+\setcounter{liste}{0}
+\setcounter{savedliste}{0}
+\setcounter{listf}{0}
+\setcounter{savedlistf}{0}
+\setcounter{location}{0}
+\setcounter{savedlocation}{0}
+\setcounter{organization}{0}
+\setcounter{savedorganization}{0}
+\setcounter{origlocation}{0}
+\setcounter{savedoriglocation}{0}
+\setcounter{origpublisher}{0}
+\setcounter{savedorigpublisher}{0}
+\setcounter{publisher}{0}
+\setcounter{savedpublisher}{0}
+\setcounter{language}{0}
+\setcounter{savedlanguage}{0}
+\setcounter{origlanguage}{0}
+\setcounter{savedoriglanguage}{0}
+\setcounter{pageref}{0}
+\setcounter{savedpageref}{0}
+\setcounter{textcitecount}{0}
+\setcounter{textcitetotal}{0}
+\setcounter{textcitemaxnames}{0}
+\setcounter{biburlnumpenalty}{0}
+\setcounter{biburlucpenalty}{0}
+\setcounter{biburllcpenalty}{0}
+\setcounter{smartand}{1}
+\setcounter{bbx:relatedcount}{0}
+\setcounter{bbx:relatedtotal}{0}
+\setcounter{cbx@tempcnta}{0}
+\setcounter{cbx@tempcntb}{63}
+\setcounter{lstnumber}{26}
+\setcounter{float@type}{16}
+\setcounter{algorithm}{1}
+\setcounter{ALG@line}{10}
+\setcounter{ALG@rem}{0}
+\setcounter{ALG@nested}{0}
+\setcounter{ALG@Lnr}{2}
+\setcounter{ALG@blocknr}{10}
+\setcounter{ALG@storecount}{0}
+\setcounter{ALG@tmpcounter}{0}
+\setcounter{section@level}{2}
+\setcounter{lstlisting}{1}
+}

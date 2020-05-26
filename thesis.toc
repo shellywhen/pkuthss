@@ -1,0 +1,131 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}引言}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}信息可视化}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}文本可视化}{1}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}本文工作及创新点}{2}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}相关文献}{4}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}大型显示设备}{4}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}大屏可视化}{4}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}人对大屏的感知}{4}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}多分辨率技术}{5}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}多分辨率可视化}{6}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{频域滤波}{6}{paragraph*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{嵌套图形}{6}{paragraph*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}图形排样}{7}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{图像拼接}{7}{paragraph*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{文字诗}{7}{paragraph*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}媒介相关方法}{8}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}词云}{9}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}布局算法}{9}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}文本可视分析}{10}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}双分辨率词云的设计目标}{12}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}任务}{12}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}设计准则}{12}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}设计选择}{13}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{大屏还是小屏，静态还是交互？}{13}{paragraph*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{如何编码字号？}{14}{paragraph*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{文字方向有何约束？}{14}{paragraph*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{下层词云如何布局？}{14}{paragraph*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{如何使用颜色？}{15}{paragraph*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}双分辨率词云可视化}{16}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}数据}{16}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}布局算法}{18}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}基础布局}{18}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}子文本布局}{18}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{区域分割}{18}{paragraph*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{分步布局}{20}{paragraph*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}算法加速}{20}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}混合图像}{21}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}词云融合}{21}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}颜色编码}{23}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}案例分析}{25}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}文学作品}{25}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}社交媒体}{25}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}双层主题}{26}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}双分辨率词云创制系统}{31}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}设计要求}{31}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}系统概览}{32}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}界面}{32}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}交互逻辑}{32}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}前后端交互}{32}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}数据上传}{32}{subsection.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\textbf {格式化文本}}{32}{paragraph*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\textbf {纯文本}}{33}{paragraph*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\textbf {布局参数}}{33}{paragraph*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.2}数据处理}{33}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.3}参数推荐}{34}{subsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}系统实现}{34}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}讨论与展望}{35}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}双分辨率词云的长处}{35}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}局限与挑战}{35}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}未来工作与潜在研究机会}{35}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}结论}{36}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{37}{appendix*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{本科期间的主要工作和成果}{42}{appendix*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{43}{appendix*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{44}{appendix*.43}

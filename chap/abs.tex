@@ -1,0 +1,18 @@
+% Copyright (c) 2014,2016 Casper Ti. Vector
+% Public domain.
+
+\begin{cabstract}
+	
+	词云是互联网中的常见文本可视化方法，能以艺术的形式通过关键词呈现文段的概要。然而，由于词云并未提供上下文信息，读者实际上无法判断多义词的具体表意，更难以从支离破碎的词语中构建对语料的整体性理解，不利于对数据的分析。
+	
+	为了进一步编码上下文信息，提高词云的有效性，我们基于多分辨率显示技术提出了一种全新的可视化形式——双分辨率词云，其具有远看是词云，近看是对应上下文的效果。在该方法中，我们首先设计了一个自适应的布局算法，根据词云各关键词的原始位置限定上下文的布局。其次，利用人视觉系统总体分辨率有限的特性，我们在词云的低频分量上叠加上下文信息的高频分量，进一步增强双分辨率词云对于距离的敏感性。我们还探索了双分辨率词云的参数空间，为用户便捷创制双分辨率词云提供了图形界面。尽管该方法自然地适用于大型显示设备，但我们通过语义缩放的交互形式使之适用于台式显示设备。该可视化方法的有效性通过三个真实案例得到验证。
+	
+\end{cabstract}
+
+\begin{eabstract}
+	The wordle is a common visualization on the Internet to provide an aesthetically pleasing summary for a long text. However, due to an absence of the context in the wordle, it remains challenging for the audience to understand the corpus based on separated words, especially those with multiple semantics.
+	
+	To address the issue, we present a novel visualization, \textit{Dual-Resolution Wordle}, to directly encode the context on a wordle by means of multi-resolution techniques, leveraging the property of human visual system, where the original wordle is visible at a distance, and the context appears at a closer look. In our approach, we first design an algorithm to adaptively fit the context into the shape constraints of the relevant word. Then we blend the high-pass context layer and the low-pass wordle layer to give a final result. Additionally, we systematically explore the parameter space for such visualization and provide an authoring interface for users to create \textit{Dual-Resolution Wordle} on their own data. Though it is naturally suitable for wall-size display, we also adapt the approach into desktop-device via semantic zooming interaction. We demonstrate the effectiveness of the proposed method through three disparate cases from real-world data.
+\end{eabstract}
+
+% vim:ts=4:sw=4
